@@ -1,0 +1,108 @@
+.animeDetailsSection {
+    display: flex;
+    margin-top: 3rem;
+    gap: 2rem;
+}
+
+.leftContainer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2rem;
+    width: 70%;
+}
+
+.leftContainerHead{
+    display: flex;
+    background-color: #2a2b2e4d;
+    padding: 2rem;
+    border-radius: 10px;
+    border: 1px solid var(--green-main-color);
+}
+
+.headText{
+    display: flex;
+    flex-direction: column;
+}
+
+.headText h1 {
+    text-align: center;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.aboutSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 33rem;
+    gap: 1rem;
+}
+
+.aboutSection p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 0.5rem;
+    background-color: var(--darker-main-color);
+    padding: 0.5rem 1.3rem;
+    border: 1px solid var(--green-main-color);
+    border-radius: 50px;
+    color: var(--sub-text-color);
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.icon {
+    color: var(--green-main-color);
+    font-size: 0.9rem;
+}
+
+.backgroundContainer {
+    background-color: var(--darker-main-color);
+    padding: 1rem;
+    width: 32rem;
+    margin-top: 1rem;
+    color: var(--sub-text-color);
+    border-radius: 10px;
+    border: 1px solid var(--green-main-color);
+}
+
+.coverImageContainer img {
+    margin-left: 2.9rem;
+    height: 17rem;
+    border-radius: 5px;
+    border: 1px solid var(--green-main-color);
+}
+
+.bodyText {
+    background-color: #2a2b2e4d;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    color: var(--sub-text-color);
+    border: 1px solid var(--green-main-color);
+}
+
+.rightContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.videoContainer {
+    background-color: #2a2b2e4d;
+    padding: 1rem;
+    border-radius: 10px;
+    border: solid 1px var(--green-main-color);
+    margin-right: 2rem;
+    height: 20rem;
+}
+
+.videoContainer h2{
+    font-size: 2rem;
+    color: white;
+    font-weight: 600;
+}

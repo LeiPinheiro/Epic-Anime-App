@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: var(--darker-main-color);
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    color: var(--green-main-color) !important;
+}
+
+.swiper-pagination-bullet-active{
+    background-color: var(--green-main-color) !important;
+}

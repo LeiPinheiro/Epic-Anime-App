@@ -1,0 +1,84 @@
+.mostPopularSection{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3.5rem;
+}
+
+.sectionHeader h2{
+    font-size: 2rem;
+    margin-left: 5rem;
+    text-align: center;
+    color: var(--green-main-color);
+    font-weight: 600;
+    padding: 1rem;
+    background-color:#2a2b2e4d;
+    width: 25rem;
+    border-radius: 5px;
+}
+
+.swiper{
+    height: 24rem;  
+    background-color: #2a2b2e4d;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-top: 2rem;
+    width: 90%;
+}
+
+.animeImage {
+    border-radius: 10px;
+    cursor: pointer;
+    transition: ease 100ms;
+}
+
+.animeImage:hover {
+    border: 3px solid var(--green-main-color);
+}
+
+.titleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #181618d3;
+    border-radius: 6px;
+    color: white;
+}
+
+
+/* TABLET */
+@media (max-width: 1160px) {
+    .sectionHeader{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .sectionHeader h2 {
+        font-size: 1.5rem;
+    }
+
+    .slideContainer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 0.5rem;
+    }
+    
+}
+
+/* MOBILE */
+@media (max-width: 790px){
+    .sectionHeader{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .sectionHeader h2{
+        font-size: 1rem;
+        margin-left: 0rem;
+        width: 90%;
+    }
+
+}
