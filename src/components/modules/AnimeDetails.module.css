@@ -106,3 +106,90 @@
     color: white;
     font-weight: 600;
 }
+
+/* TABLET */
+@media (max-width: 1160px) {
+    .animeDetailsSection{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .leftContainer{
+        width: 90%;
+    }
+    .coverImageContainer {
+        align-items: center;
+        justify-content: center;
+        margin-left: 7rem;
+    }
+    .rightContainer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        width: 90%;
+    }
+    .trailerVideo {
+        width: 100%;
+    }
+}
+
+@media (max-width: 790px) {
+    .leftContainer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+    }
+    
+    .leftContainerHead {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .backgroundContainer {
+        display: none;
+    }
+
+
+    .headText {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .headText h1 {
+        font-size: 1.4rem;
+    }
+
+    .aboutSection p {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.7rem;
+        padding: 0.2rem;
+    }
+
+    .coverImageContainer img {
+        margin: 0;
+        height: 12rem;
+        width: 100%;
+    }
+
+    .videoContainer {   
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+
+    .coverImageContainer{
+        margin: 0;
+        margin-top: 0.5rem;
+    }
+}
+
