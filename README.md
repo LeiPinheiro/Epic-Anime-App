@@ -1,8 +1,17 @@
-# React + Vite
+# 📺 **Epic Anime**
+*"Epic Animes oferece um catálogo completo e atualizado com seus títulos favoritos, dos clássicos aos lançamentos mais recentes. Explore sinopses detalhadas. Tudo isso com uma interface intuitiva e otimizada para garantir a melhor experiência. Seu hub definitivo para acompanhar seus animes e mangás favoritos, com atualizações em tempo real!"*
+### 📷 **Imagem do Site:**
+<img src="src/assets/epic_anime_home.jpg" alt="Interface Inicial" width="1000">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ **Recursos**
+- 📖 Catálogo atualizado de mangás e animes.  
+- 🔍 Pesquisa fácil com filtros avançados (gênero, popularidade, etc.).  
+- 📊 Estatísticas de visualização e tendências.
+## 🖥️ **Tecnologias Utilizadas**
+- **Frontend:** React.js
+- **Backend:** Node.js
+- **Outros:** Jikan API
+## 📚 **Documentação da API**
+- **API:** https://docs.api.jikan.moe/
+## 🖼️ **Imagens do Projeto***
+<img src="src/assets/most_watched_section.jpg" width="1000"> <img src ="src/assets/dandadan_print.jpg" width="1000"> 
