@@ -13,5 +13,5 @@
 - **Outros:** Jikan API
 ## 📚 **Documentação da API**
 - **API:** https://docs.api.jikan.moe/
-## 🖼️ **Imagens do Projeto***
+## 🖼️ **Imagens do Projeto**
 <img src="src/assets/most_watched_section.jpg" width="1000"> <img src ="src/assets/dandadan_print.jpg" width="1000"> 
