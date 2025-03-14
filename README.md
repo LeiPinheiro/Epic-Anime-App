@@ -1,5 +1,5 @@
 # 📺 **Epic Anime**
-*"Epic Animes oferece um catálogo completo e atualizado com seus títulos favoritos, dos clássicos aos lançamentos mais recentes. Explore sinopses detalhadas. Tudo isso com uma interface intuitiva e otimizada para garantir a melhor experiência. Seu hub definitivo para acompanhar seus animes e mangás favoritos, com atualizações em tempo real!"*
+*Epic Animes oferece um catálogo completo e atualizado com seus títulos favoritos, dos clássicos aos lançamentos mais recentes. Explore sinopses detalhadas. Tudo isso com uma interface intuitiva e otimizada para garantir a melhor experiência. Seu hub definitivo para acompanhar seus animes e mangás favoritos, com atualizações em tempo real!*
 ### 📷 **Imagem do Site:**
 <img src="src/assets/epic_anime_home.jpg" alt="Interface Inicial" width="1000">
 
